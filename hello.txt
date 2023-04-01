@@ -13,3 +13,4 @@ hello git!
 hello git!
 hello git!
 write in browser.
+write in clone local.
